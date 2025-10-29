@@ -24,6 +24,7 @@ const sites = [
   {name: "Zombo.com", description: "You can do anything at Zombo.com.", url: "https://zombo.com/"},
   {name: "Weird Wide Web", description: "A doorway into forgotten corners of the net — surreal, nostalgic, alive.", url: "https://www.aestheticmess.com/weird-wide-web"},
   {name: "NuMuKi Games", description: "Flash legends and browser classics all in one place — the past made playable again.", url: "https://www.numuki.com/"},
+  {name: "YouTube Early 2000s (Web Design Museum)", description: "A time capsule of YouTube’s earliest days — browse channels and videos frozen in the early 2000s, when the internet still felt new.", url: "https://www.webdesignmuseum.org/gallery/youtube-2005"},
 
 
 
