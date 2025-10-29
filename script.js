@@ -6,8 +6,30 @@ const sites = [
   
   {name: "Window Swap", description: "Peer through windows from around the world, and step into someone else’s view for a moment.", url: "https://window-swap.com"},
   {name: "Pointer Pointer", description: "Everywhere your cursor goes, a stranger points back. Weird, but oddly comforting.", url: "https://pointerpointer.com"},
- 
- 
+  
+
+  
+  {name: "Cameron’s World", description: "A digital wasteland stitched from GeoCities ruins — step into the ghosts of the early web.", url: "https://www.cameronsworld.net"},
+  {name: "OMFGDOGS", description: "An endless stampede of pixel dogs and noise — chaos that loops forever.", url: "https://www.omfgdogs.com/"},
+  {name: "RRRGGGBBB", description: "A trance of shifting colors. No instructions. Just instinct and RGB.", url: "https://www.rrrgggbbb.com/"},
+  {name: "Smash The Walls", description: "Nothing to solve, nothing to gain. Just break things. Over and over.", url: "https://smashthewalls.com/"},
+  {name: "Superbad", description: "A rabbit hole of strange pages from another time. You’ll never know where you’ll end up next.", url: "https://superbad.com/"},
+  {name: "Mackerel Media Fish", description: "An internet mystery buried beneath layers of glitch and story. The deeper you swim, the stranger it gets.", url: "https://mackerelmediafish.com/"},
+  {name: "Nyan Cat", description: "An eternal loop of color and song. The meme that outlived its moment.", url: "https://www.nyan.cat/#"},
+  {name: "The Quiet Place Project", description: "The web falls silent here. Just you, your thoughts, and the sound of nothing.", url: "https://thequietplaceproject.xyz/thequietplace/td"},
+  {name: "Click Click Click", description: "You’re being watched. Every click observed. Keep going — it’s listening.", url: "https://clickclickclick.click/#11a6eb19b2a2ad35718055adb7485917"},
+  {name: "Stellarium Web", description: "The night sky rendered in pixels. Drift among stars that remember your gaze.", url: "https://stellarium-web.org/"},
+  {name: "Sandspiel", description: "Draw worlds, destroy them, watch reactions unfold like tiny universes.", url: "https://sandspiel.club/"},
+  {name: "Strange Website", description: "An internet anomaly. Don’t question it — just explore the strange.", url: "https://strange.website/"},
+  {name: "Zombo.com", description: "You can do anything at Zombo.com.", url: "https://zombo.com/"},
+  {name: "Weird Wide Web", description: "A doorway into forgotten corners of the net — surreal, nostalgic, alive.", url: "https://www.aestheticmess.com/weird-wide-web"},
+  {name: "NuMuKi Games", description: "Flash legends and browser classics all in one place — the past made playable again.", url: "https://www.numuki.com/"},
+
+
+
+
+
+
   {name: "Zoom Quilt", description: "Dive into an endless zooming artwork that feels infinite and alive.", url: "http://zoomquilt.org"},
   
   {name: "Hacker Typer", description: "Type like a movie hacker and pretend the world is your command line.", url: "https://hackertyper.net"},
@@ -22,7 +44,6 @@ const sites = [
   
   {name: "RetroGames", description: "A digital attic of old pixels and high scores.", url: "https://www.retrogames.cz/index.php"},
  
-  
   
   {name: "Bored Button", description: "Press and be whisked away to random entertainments when you have nothing to do.", url: "https://www.boredbutton.com"},
   
