@@ -7,7 +7,7 @@ const sites = [
   {name: "Window Swap", description: "Peer through windows from around the world, and step into someone else’s view for a moment.", url: "https://window-swap.com"},
   {name: "Pointer Pointer", description: "Everywhere your cursor goes, a stranger points back. Weird, but oddly comforting.", url: "https://pointerpointer.com"},
  
-  {name: "Youtube", description: "Streaming platform", url: "youtube.com"},
+ 
   {name: "Zoom Quilt", description: "Dive into an endless zooming artwork that feels infinite and alive.", url: "http://zoomquilt.org"},
   
   {name: "Hacker Typer", description: "Type like a movie hacker and pretend the world is your command line.", url: "https://hackertyper.net"},
